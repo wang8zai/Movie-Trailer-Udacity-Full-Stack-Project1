@@ -1,1 +1,0 @@
-# Movie-Trailer-Udacity-Full-Stack-Project1
