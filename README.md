@@ -1,4 +1,4 @@
-# Movie-Trailer-Udacity-Full-Stack-Project1
+# ud036_StarterCode
 ## Installion
 Run entertainment_center.py
 ## Description
