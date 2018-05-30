@@ -1,4 +1,4 @@
-# Movie-Trailer-Udacity-Full-Stack-Project1
+# Movie Trailer Udacity Full Stack Project1
 ## Installion
 Run entertainment_center.py
 ## Description
