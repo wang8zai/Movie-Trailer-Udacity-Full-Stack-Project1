@@ -1,7 +1,8 @@
 # Movie Trailer Udacity Full Stack Project1
 
 ## Installion
-Run entertainment_center.py
+Mac command line:
+python entertainment_center.py
 
 ## Prerequisites
 Python 2.7
