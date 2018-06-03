@@ -2,6 +2,7 @@
 
 ## Installion
 git clone http://github.com/wang8zai/ud036_StarterCode or download code to local.
+
 Run .py with Mac command line:
 python entertainment_center.py
 
